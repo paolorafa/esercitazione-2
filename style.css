@@ -18,7 +18,7 @@ header{
 }
 
 header p{
-    background-color: orange;
+    background-color: rgba(204, 158, 29, 0.911);
     width: 100%;
     text-align: center;
     font-size: 10px;
@@ -46,6 +46,15 @@ header p{
     width: 100%;
     margin-bottom: 0;
     font-size: 13px;
+}
+
+.link{
+    text-align: left;
+}
+.link h2{
+    font-size: 15px;
+    color: red;
+    margin: 0;
 }
 
 .content ul{
